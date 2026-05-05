@@ -1,0 +1,386 @@
+{
+  "brand": {
+    "name": "SkynetLabs Real Estate Demo",
+    "tagline": "Off-market Miami waterfront + pre-construction"
+  },
+  "niche": "realestate",
+  "niche_label": "Real Estate",
+  "location": {
+    "city": "Miami",
+    "region": "FL",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-305-555-0301"
+  },
+  "palette": {
+    "bg": "#0A0A0A",
+    "surface": "#1A1A1A",
+    "ink": "#FFFFFF",
+    "accent": "#4DD0E1",
+    "detail": "#C8A961"
+  },
+  "fonts": {
+    "display": "Sora",
+    "body": "Geist Sans",
+    "mono": "Geist Mono"
+  },
+  "dark_mode": true,
+  "design": {
+    "rhythm": {
+      "services": "generous",
+      "testimonial": "normal",
+      "gallery": "generous"
+    }
+  },
+  "hero": {
+    "kind": "r3f",
+    "h1": "Brickell. Bal Harbour. Star Island. *Sold.*",
+    "sub": "$5B Sold in 2025 · #1 Miami-Dade · Forbes Global Properties Affiliate.",
+    "photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Sigmund on Unsplash",
+    "overlay": "rgba(0,0,0,0.0)",
+    "focal_point": "center"
+  },
+  "hero_3d": {
+    "r3f_scene": "r3f-floorplan",
+    "poster_src": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1920&auto=format&fit=crop&q=80"
+  },
+  "filter_row": {
+    "enabled": true,
+    "fields": [
+      {
+        "label": "Price",
+        "options": [
+          "$1M+",
+          "$5M+",
+          "$10M+",
+          "$20M+",
+          "$50M+"
+        ]
+      },
+      {
+        "label": "Beds",
+        "options": [
+          "2+",
+          "3+",
+          "4+",
+          "5+",
+          "6+"
+        ]
+      },
+      {
+        "label": "Baths",
+        "options": [
+          "2+",
+          "3+",
+          "4+",
+          "5+"
+        ]
+      },
+      {
+        "label": "Type",
+        "options": [
+          "Condo",
+          "Penthouse",
+          "Estate",
+          "Waterfront",
+          "New Dev"
+        ]
+      }
+    ],
+    "cta": "Step Inside"
+  },
+  "copy": {
+    "h1": "Brickell. Bal Harbour. Star Island. *Sold.*",
+    "sub": "$5B Sold in 2025 · #1 Miami-Dade · Forbes Global Properties Affiliate.",
+    "primary_cta": "Step Inside →",
+    "primary_cta_href": "#listings",
+    "secondary_cta": "Schedule Private Tour",
+    "secondary_cta_href": "tel:+13055550301",
+    "sticky_mobile_bar": "Private showing — (305) 555-0301"
+  },
+  "trust_strip": [
+    "$5B Sold 2025",
+    "#1 Miami-Dade",
+    "70+ Venetian Islands Homes Closed",
+    "Forbes Global Properties Affiliate",
+    "Featured · WSJ Mansion · Bloomberg · Architectural Digest"
+  ],
+  "service_area": {
+    "primary_city": "Miami, FL",
+    "service_area_cities": [
+      "Miami Beach, FL",
+      "Bal Harbour, FL",
+      "Surfside, FL",
+      "Sunny Isles, FL",
+      "Indian Creek, FL",
+      "Fisher Island, FL",
+      "Star Island, FL",
+      "Hibiscus Island, FL",
+      "Palm Island, FL",
+      "Venetian Islands, FL",
+      "Edgewater, FL",
+      "Brickell, FL",
+      "Coconut Grove, FL",
+      "Coral Gables, FL",
+      "Pinecrest, FL",
+      "Key Biscayne, FL",
+      "Aventura, FL",
+      "Miami Shores, FL",
+      "Bay Harbor Islands, FL",
+      "Mid-Beach, FL",
+      "Hollywood, FL",
+      "Fort Lauderdale, FL",
+      "Boca Raton, FL",
+      "Delray Beach, FL",
+      "Palm Beach, FL",
+      "Naples, FL",
+      "Marco Island, FL",
+      "Sarasota, FL",
+      "Vero Beach, FL",
+      "Jupiter, FL"
+    ]
+  },
+  "services": [
+    {
+      "slug": "waterfront-penthouse",
+      "title": "Waterfront + Penthouse Sales",
+      "blurb": "Acquisition and disposition representation across Edgewater, Brickell, Sunny Isles, and Fisher Island for buyers and sellers in the $5M to $50M range. Discreet showings, marketing tailored to qualified buyers, and a record of selling at the top of comps."
+    },
+    {
+      "slug": "pre-construction",
+      "title": "New Development Pre-Construction",
+      "blurb": "First-position reservations on Aston Martin Residences, The Residences at Mandarin Oriental, Una Residences, Cipriani Residences, and the next wave of Miami developer launches. Deposit protection structuring and floor selection grounded in floor-plan analysis our buyers do not see elsewhere."
+    },
+    {
+      "slug": "off-market",
+      "title": "Off-Market + Pocket Listings",
+      "blurb": "Curated off-market book of Indian Creek, Star Island, and Bal Harbour properties not listed on MLS. Updated quarterly, distributed to qualified buyers under NDA. Sale-side relationship with sellers who are not yet public — and many never will be."
+    },
+    {
+      "slug": "international",
+      "title": "International Buyer Representation",
+      "blurb": "FIRPTA structuring, banking introductions, attorney coordination, residency planning, and family-office relationship management for LatAm, European, and Asian buyers entering the Miami market."
+    },
+    {
+      "slug": "luxury-leasing",
+      "title": "Luxury Leasing — Seasonal + Annual",
+      "blurb": "Premium leasing across Brickell, Edgewater, and Miami Beach for $25K to $100K monthly inventory. Curation of properties, white-glove move-in coordination, and a direct landlord network that prioritizes our placements."
+    },
+    {
+      "slug": "estate-trust",
+      "title": "Estate + Trust Liquidation",
+      "blurb": "Discretion-required liquidation of inherited and trust-held properties. Coordination with estate attorneys, accountants, and family offices. We have managed liquidations of multi-property estates exceeding $100M with full discretion preserved."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Private inquiry",
+      "blurb": "Confidential conversation about acquisition or disposition goals, timeline, and confidentiality posture. NDA available on request — most clients sign before the second call."
+    },
+    {
+      "n": 2,
+      "title": "Property curation",
+      "blurb": "Off-market book delivered to qualified buyers, marketing strategy proposed for sellers. We do not work the volume game; we work the right-property game and the right-buyer game."
+    },
+    {
+      "n": 3,
+      "title": "Negotiation + diligence",
+      "blurb": "Legal team coordination, inspection management, financial structuring, FIRPTA + entity selection for international buyers, and tax-considered closing strategy that travels with you."
+    },
+    {
+      "n": 4,
+      "title": "Closing + concierge + long-tail",
+      "blurb": "Post-close concierge — property management referrals, school placement, residency consulting, dockage assistance, and quarterly off-market notes that keep you ahead. The relationship is the inventory."
+    }
+  ],
+  "case_study": {
+    "title": "Indian Creek Off-Market — $42M LatAm UHNW Acquisition",
+    "photo_url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1920&auto=format&fit=crop&q=80",
+    "quote": "I had been searching Indian Creek for two years through three different brokerages and was about to give up. The team brought me an off-market property the day after our first call. We closed in nine weeks with full discretion and the seller never went to market.",
+    "stats": [
+      {
+        "value": "$42M",
+        "label": "Closed sale price"
+      },
+      {
+        "value": "9 wks",
+        "label": "Inquiry to close"
+      },
+      {
+        "value": "Off-market",
+        "label": "Never listed publicly"
+      }
+    ]
+  },
+  "notable_sales": [
+    {
+      "address": "Star Island Estate",
+      "neighborhood": "Star Island, FL",
+      "price": "$79M",
+      "photo_url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1280&auto=format&fit=crop&q=80"
+    },
+    {
+      "address": "Indian Creek Compound",
+      "neighborhood": "Indian Creek, FL",
+      "price": "$70M",
+      "photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1280&auto=format&fit=crop&q=80"
+    },
+    {
+      "address": "Fisher Island Penthouse",
+      "neighborhood": "Fisher Island, FL",
+      "price": "$57M",
+      "photo_url": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1280&auto=format&fit=crop&q=80"
+    }
+  ],
+  "neighborhoods": [
+    {
+      "name": "Brickell",
+      "median": "$2.4M",
+      "inventory": 124
+    },
+    {
+      "name": "Coconut Grove",
+      "median": "$3.1M",
+      "inventory": 67
+    },
+    {
+      "name": "Bal Harbour",
+      "median": "$5.8M",
+      "inventory": 41
+    },
+    {
+      "name": "Sunny Isles",
+      "median": "$4.2M",
+      "inventory": 58
+    },
+    {
+      "name": "Coral Gables",
+      "median": "$3.9M",
+      "inventory": 73
+    },
+    {
+      "name": "Star Island",
+      "median": "$28M+",
+      "inventory": 8
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Indian Creek is hard to access without a relationship. They had one and they brought me in. Closed in nine weeks, full discretion, and the seller never went to market. The off-market book is real — and worth the relationship.",
+      "name": "Sr. Nogueira",
+      "role": "LatAm UHNW buyer",
+      "city": "São Paulo → Miami, FL"
+    },
+    {
+      "quote": "Relocated from NYC and the team handled the property search, school placement, residency consulting, and the social introductions that make a city actually feel like home. Six months in and we are settled. They earned the commission three times over on the soft work alone.",
+      "name": "Daniel + Sara R.",
+      "role": "NYC tech-founder relocation",
+      "city": "Manhattan → Brickell, FL"
+    },
+    {
+      "quote": "We sold out the entire 32-floor tower six months ahead of the developer's schedule. The team's pre-construction relationships and qualified-buyer book turned what was supposed to be an 18-month launch into a 12-month sellout. Repeat partner on every project since.",
+      "name": "Aksel J.",
+      "role": "Tower developer",
+      "city": "Edgewater, FL"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the international wire process work?",
+      "a": "We coordinate FIRPTA tax structuring with cross-border attorneys, U.S. banking introductions for non-residents, and entity selection (LLC, trust, foreign corporation) before wire instructions ever leave the desk. Most of our LatAm and European buyers wire from existing private-banking relationships abroad and we are paid in escrow on the U.S. side."
+    },
+    {
+      "q": "What are typical Miami condo board requirements?",
+      "a": "Most luxury Miami buildings (Apogee, Continuum, Faena, Setai, Acqualina) require board package submission with proof of funds, three personal references, and a personal interview. We pre-qualify buyers and prepare the package — buyers deal with the board, not the paperwork. Approval timelines run 14–30 days depending on building."
+    },
+    {
+      "q": "Foreign-buyer tax exposure (FIRPTA)?",
+      "a": "FIRPTA withholds 15% of gross sale price from foreign sellers at closing — pre-purchase entity selection determines whether you ever face that withholding on exit. We structure entities at acquisition with the exit in mind. Buyers always wish they had this conversation earlier."
+    },
+    {
+      "q": "How is the off-market pipeline sourced?",
+      "a": "Direct relationships with attorneys, accountants, family offices, and prior clients who own the kind of property our buyers want. We do not advertise the off-market book and we do not distribute it widely. The relationship is the inventory."
+    },
+    {
+      "q": "What's the typical due-diligence timeline?",
+      "a": "Standard Miami contract: 14-day inspection, 21-day financing, 30-day appraisal, 45-day close. Off-market and waterfront properties run 60–90 days due to specialized inspections (seawall, dock, hurricane-mitigation). We coordinate inspectors who specialize in Miami waterfront and we do not use the cheapest."
+    },
+    {
+      "q": "How is escrow handled on celebrity-tier transactions?",
+      "a": "Single-broker escrow at a Miami-based title company that has handled NDA-protected closings for our team. Buyers and sellers never appear on public records the same day; deeds are recorded with single-purpose LLC ownership, mailing addresses are routed through registered agents. This is not optional — it is part of the engagement."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Miami Off-Market Buyer's Brief",
+    "subtitle": "How off-market really works — and what to ask before signing a buyer-broker. 12 pages.",
+    "cta": "Request the brief →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://carolwoodre.com",
+    "https://www.elliman.com",
+    "https://dorapuig.com",
+    "https://www.compass.com",
+    "https://www.miami-luxury.com"
+  ],
+  "anti_patterns": [
+    "MLS search bar in the hero",
+    "Luxury redefined tagline",
+    "Agent-headshot-on-staircase photo",
+    "Autoplay video in hero",
+    "Light backgrounds for luxury (Zillow-tier)"
+  ],
+  "modules": {
+    "booking_calendar": false,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true,
+    "sticky_mobile_bar": false
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Miami Luxury Real Estate | Off-Market + Pre-Construction | SkynetLabs",
+    "description": "Off-market Miami waterfront and pre-construction acquisition + sale representation. $5B+ 2025 volume. International buyer specialists.",
+    "keywords": [
+      "miami luxury real estate",
+      "off market miami penthouse",
+      "pre construction miami",
+      "indian creek real estate",
+      "miami waterfront broker",
+      "brickell penthouse for sale",
+      "star island estate",
+      "bal harbour condo"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=realestate",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=realestate",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
